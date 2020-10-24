@@ -22,5 +22,7 @@ I then came up with a Python code script which could help me semi-automate the a
 This code script served as a tailor-made `microservice` workflow for handling La MaMa's video files derived from their SONY digital camera.  
 
 ## Gear Up!
-Follow [this guideline](https://amiaopensource.github.io/av-python-carpentry/setup.html) to install Anaconda which allows you to run Python codes one stop.
-You will also need FFmpeg - a savior to handle audiovisual materials with ease and speed. The simplest way to [install FFmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/wiki/Installing-ffmpeg-on-Mac-OS-X) is through homebrew.
+Follow [this guideline](https://amiaopensource.github.io/av-python-carpentry/setup.html) to install Anaconda which allows you to run Python codes one stop.  
+You will also need FFmpeg - a savior to handle audiovisual materials with ease and speed. The simplest way to [install FFmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/wiki/Installing-ffmpeg-on-Mac-OS-X) is through homebrew.  
+[Installing Homebrew](https://brew.sh) is something that could not be easier than typing one line of code in your terminal.  
+After these three steps, you are good to go.
