@@ -19,4 +19,7 @@ Setting aside the time taken to repetatively extract video files, rendering vide
 
 # Proposed Workflow
 I then came up with a Python code script which could help me semi-automate the above laborious process.  
-This code script served as a tailor-made `microservice` workflow for handling La MaMa's video files derived from their SONY digital camera. 
+This code script served as a tailor-made `microservice` workflow for handling La MaMa's video files derived from their SONY digital camera.  
+
+## Gear Up!
+Follow [this guideline] (https://amiaopensource.github.io/av-python-carpentry/setup.html) to install Anaconda which allows you to run Python codes one stop.
