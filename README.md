@@ -23,3 +23,4 @@ This code script served as a tailor-made `microservice` workflow for handling La
 
 ## Gear Up!
 Follow [this guideline](https://amiaopensource.github.io/av-python-carpentry/setup.html) to install Anaconda which allows you to run Python codes one stop.
+You will also need FFmpeg - a savior to handle audiovisual materials with ease and speed. The simplest way to [install FFmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/wiki/Installing-ffmpeg-on-Mac-OS-X) is through homebrew.
