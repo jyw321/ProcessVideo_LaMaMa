@@ -26,3 +26,6 @@ Follow [this guideline](https://amiaopensource.github.io/av-python-carpentry/set
 You will also need FFmpeg - a savior to handle audiovisual materials with ease and speed. The simplest way to [install FFmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/wiki/Installing-ffmpeg-on-Mac-OS-X) is through homebrew.  
 [Installing Homebrew](https://brew.sh) is something that could not be easier than typing one line of code in your terminal.  
 After these three steps, you are good to go.
+
+## Get Started!
+Go to [LaMaMa_video_workflow.md](LaMaMa_video_workflow.md) for step-by-step guidance to run the Python code.
