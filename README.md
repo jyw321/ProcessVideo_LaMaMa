@@ -28,4 +28,4 @@ You will also need FFmpeg - a savior to handle audiovisual materials with ease a
 After these three steps, you are good to go.
 
 ## Get Started!
-Go to [LaMaMa_video_workflow.md](LaMaMa_video_workflow.md) for step-by-step guidance to run the Python code.
+Go to [LaMaMa_video_workflow.md](Lamama_video_workflow.md) for step-by-step guidance to run the Python code.
