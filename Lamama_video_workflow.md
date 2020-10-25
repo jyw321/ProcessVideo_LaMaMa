@@ -1,4 +1,4 @@
-# Before we start run the codes
+# Before we start running the codes
 
 After you download a production video file from La MaMa's server, make sure the file folder name does not contain any space or special characters. A file folder name that contains space will confuse our computer. Remember to replace "space" with a underscore "_".
 
